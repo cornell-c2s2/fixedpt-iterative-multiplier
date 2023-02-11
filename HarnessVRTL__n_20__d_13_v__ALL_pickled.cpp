@@ -1,7 +1,0 @@
-#include "HarnessVRTL__n_20__d_13_v.cpp"
-#include "obj_dir_HarnessVRTL__n_20__d_13/VHarnessVRTL__n_20__d_13.cpp"
-#include "obj_dir_HarnessVRTL__n_20__d_13/VHarnessVRTL__n_20__d_13__Trace.cpp"
-#include "/usr/share/verilator/include/verilated.cpp"
-#include "/usr/share/verilator/include/verilated_vcd_c.cpp"
-#include "obj_dir_HarnessVRTL__n_20__d_13/VHarnessVRTL__n_20__d_13__Syms.cpp"
-#include "obj_dir_HarnessVRTL__n_20__d_13/VHarnessVRTL__n_20__d_13__Trace__Slow.cpp"
