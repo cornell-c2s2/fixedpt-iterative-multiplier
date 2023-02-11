@@ -2,7 +2,7 @@
 `define FIXED_POINT_ITERATIVE_MULTIPLIER
 
 `include "muxes.v"
-`include "../../../lib/sim/nbitregister/RegisterV_Reset.v"
+`include "RegisterV_Reset.v"
 
 module FpmultVRTL
 # (
