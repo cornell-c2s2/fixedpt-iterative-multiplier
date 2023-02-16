@@ -1,8 +1,8 @@
 `ifndef FIXED_POINT_ITERATIVE_MULTIPLIER
 `define FIXED_POINT_ITERATIVE_MULTIPLIER
 
-`include "muxes.v"
-`include "RegisterV_Reset.v"
+`include "../../../fixedpt-iterative-multiplier/sim/multiplier/muxes.v"
+`include "../../../fixedpt-iterative-multiplier/sim/multiplier/RegisterV_Reset.v"
 
 module FpmultVRTL
 # (
